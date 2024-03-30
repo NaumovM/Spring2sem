@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CheckStyle-IDEA" serialisationVersion="2">
+    <checkstyleVersion>10.12.4</checkstyleVersion>
+    <scanScope>JavaOnly</scanScope>
+    <copyLibs>true</copyLibs>
+    <option name="thirdPartyClasspath" />
+    <option name="activeLocationIds" />
+    <option name="locations">
+      <list>
+        <ConfigurationLocation id="bundled-sun-checks" type="BUNDLED" scope="All" description="Sun Checks">(bundled)</ConfigurationLocation>
+        <ConfigurationLocation id="bundled-google-checks" type="BUNDLED" scope="All" description="Google Checks">(bundled)</ConfigurationLocation>
+      </list>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Seminar1/example1sem1/myapp/pom.xml" />
+        <option value="$PROJECT_DIR$/Seminar1/example2sem1/pom.xml" />
+        <option value="$PROJECT_DIR$/Seminar2/Exam1Sem2/pom.xml" />
+        <option value="$PROJECT_DIR$/Seminar2/Exam2Sem2/pom.xml" />
+        <option value="$PROJECT_DIR$/Seminar2/Exam3Sem2/pom.xml" />
+        <option value="$PROJECT_DIR$/Seminar2/Exam4Sem2/pom.xml" />
+        <option value="$PROJECT_DIR$/Seminar2/CRUDSpringWeb/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/Seminar3/sem3exampl1/pom.xml" />
+        <option value="$PROJECT_DIR$/Seminar3/sem3HomeTask/pom.xml" />
+        <option value="$PROJECT_DIR$/Seminar3/sem3example2REST/pom.xml" />
+        <option value="$PROJECT_DIR$/Seminar3/Sem3example3_scope/sq-ch9-ex3/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="19" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
